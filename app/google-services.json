@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "884523025504",
+    "firebase_url": "https://pruebados-91ec3-default-rtdb.firebaseio.com",
+    "project_id": "pruebados-91ec3",
+    "storage_bucket": "pruebados-91ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884523025504:android:4d2075c2089eb2269f2f05",
+        "android_client_info": {
+          "package_name": "com.example.momentodos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZsY36JZ8dfwMKaEqVggvTRKJ6KNqrG9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884523025504:android:e3303dc4134bc1669f2f05",
+        "android_client_info": {
+          "package_name": "com.example.momentodosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZsY36JZ8dfwMKaEqVggvTRKJ6KNqrG9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884523025504:android:e18df559bc0066809f2f05",
+        "android_client_info": {
+          "package_name": "com.example.pruebados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZsY36JZ8dfwMKaEqVggvTRKJ6KNqrG9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
